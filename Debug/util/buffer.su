@@ -1,0 +1,14 @@
+../util/buffer.c:24:6:buffer_append_int16	32	static
+../util/buffer.c:29:6:buffer_append_uint16	32	static
+../util/buffer.c:34:6:buffer_append_int32	24	static
+../util/buffer.c:41:6:buffer_append_uint32	24	static
+../util/buffer.c:48:6:buffer_append_float16	24	static
+../util/buffer.c:52:6:buffer_append_float32	24	static
+../util/buffer.c:96:6:buffer_append_float32_auto	48	static
+../util/buffer.c:121:9:buffer_get_int16	24	static
+../util/buffer.c:128:10:buffer_get_uint16	24	static
+../util/buffer.c:135:9:buffer_get_int32	24	static
+../util/buffer.c:144:10:buffer_get_uint32	24	static
+../util/buffer.c:153:7:buffer_get_float16	24	static
+../util/buffer.c:157:7:buffer_get_float32	24	static
+../util/buffer.c:161:7:buffer_get_float32_auto	40	static
